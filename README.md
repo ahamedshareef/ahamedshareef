@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @ahamedshareef
 - 👀 I’m interested in DSA and Problem Solving and creating Selenium and other Automation Projects
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
+- 🌱 I’m currently learning DSA Problems 
+- 💞️ I’m looking to collaborate on Automation Frameworks -Generic for use of Anyone who wants to start with Automations
 - 📫 How to reach me 9052222838
 
 <!---
